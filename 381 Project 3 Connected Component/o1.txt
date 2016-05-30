@@ -1,0 +1,27 @@
+prettyPrint of firstPass8conn():
+     
+     
+
+
+EqAry after firstPass8conn():
+0	
+1925616	
+
+prettyPrint of secondPass8Conn():
+     
+     
+
+
+EqAry after secondPass8Conn():
+0	
+1925616	
+
+EqAry after manageEqAry():
+0	
+1925616	
+
+prettyPrint of thirdPass8Conn():
+     
+     
+
+
